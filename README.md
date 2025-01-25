@@ -28,9 +28,9 @@ Get different players of different abilities to play with you.
 The scoreboard would tabulate the score, once the player gets the higher score,the winner's player number will be reflected and the game ends.
 
 ## To play the demo
-Copy and paste the raw code into your laptop to play it for a better experience.
+Copy and paste the raw code into your laptop to play it for a better experience. https://github.com/JanisAng/Speed-Math/blob/main/main.py
 
 ## To view the code
-Copy and paste the raw code into laptop.  
+Copy and paste the raw code into laptop.  https://github.com/JanisAng/Speed-Math/blob/main/main.py
 
             
