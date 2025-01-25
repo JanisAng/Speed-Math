@@ -9,7 +9,7 @@ The motivation behind this project was to create an interactive and educational 
 
 # Gameplay
 Develop a code where simple math problems are presented, and the player needs to quickly solve and select the correct answer.
-<img src="https://github.com/user-attachments/assets/bfed1249-bd5e-450f-83cc-d8528fbe5759" width="500">
+<img src="https://github.com/user-attachments/assets/bfed1249-bd5e-450f-83cc-d8528fbe5759" width="200">
 
 ## Control
 1. Press 'keydown' to start
