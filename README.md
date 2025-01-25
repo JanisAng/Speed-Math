@@ -2,8 +2,10 @@
 SpeedMath is a  mathematical problem game. Maths problems would appear on the screen, ranging from addition and subtraction to multiplication and division. The players' task is to solve these problems as quickly as possible, promoting rapid cognitive processing and mathematical proficiency. Incorporating a scoring system, the game rewards accuracy and speed, adding an element of excitement.
 
 # SpeedMath background story
-
 The motivation behind this project was to create an interactive and educational game that enhances children's mathematical skills while making learning fun and engaging.
+
+# Process Flowchart
+<img src="https://github.com/user-attachments/assets/6950ccb0-b8f6-40c4-a081-0256efc87a91" width="500">
 
 # Gameplay
 Develop a code where simple math problems are presented, and the player needs to quickly solve and select the correct answer.
